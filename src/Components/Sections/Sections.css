@@ -1,0 +1,97 @@
+.texts-one{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.texts-one h1{
+    font-family: Roboto;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 90px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.wrapperello{
+    margin-left: 80px;
+    margin-top: 150px;
+}
+.loader{
+    margin-left: 610px;
+    margin-top: 200px;
+}
+.texttwo h1{
+    font-family: Roboto;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 90px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 20px;
+}
+.textthree h1{
+    font-family: Roboto;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 90px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 20px;
+}
+.wraper-text h3{
+    height: 287px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 45px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 762px;
+    height: 187px;
+    opacity: 0.85;
+    margin-top: 20px;
+}
+.one{
+   width: 200px;
+   height: 64px;
+   color: black;
+   background: white;
+   border: 2px solid lightgray;
+   font-size: 17px;
+    cursor: pointer;
+    border-radius: 7px;
+    margin-bottom: 30px;
+    transition: all 0.5s;
+}
+.one:hover{
+    background: black;
+    color:white;
+}
+.two{
+    width: 200px;
+    height: 64px;
+    color: white;
+    background: black;
+    border: 2px solid lightgray;
+    font-size: 17px;
+     cursor: pointer;
+     border-radius: 7px;
+     margin-bottom: 30px;
+     transition: all 0.5s;
+}
+.two:hover{
+    background: white;
+    color:black
+}
+.btns{
+    display: flex;
+    gap: 40px;
+}
+.all{
+    display: flex;
+}
+.img{
+    width: 400px;
+    height: 550px;
+    margin-top: 221px;
+    margin-left: 50px;
+}
